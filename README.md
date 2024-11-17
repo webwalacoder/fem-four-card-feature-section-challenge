@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://your-solution-url.com)
-- Live Site URL: [Live Preview](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/webwalacoder/fem-four-card-feature-section-challenge)
+- Live Site URL: [Live Preview](https://webwalacoder.github.io/fem-four-card-feature-section-challenge/)
 
 ## My process
 
